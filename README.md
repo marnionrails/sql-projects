@@ -1,6 +1,7 @@
 # SQL Projects
 
-This repository contains a collection of SQL projects demonstrating various data analysis and manipulation techniques.
+This repository contains a collection of SQL projects demonstrating various data analysis and manipulation techniques. Each project has its own directory with a detailed `README.md` file explaining the objectives, techniques, and outcomes.
+
 
 ## Projects
 
@@ -10,4 +11,3 @@ This repository contains a collection of SQL projects demonstrating various data
 
 - COVID-19 Data Exploration: (Coming soon)
 
-Each project has its own directory with a detailed `README.md` file explaining the objectives, techniques, and outcomes.

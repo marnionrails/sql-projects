@@ -5,7 +5,7 @@ This repository contains a collection of SQL projects demonstrating various data
 
 ## Projects
 
-- [World Life Expectancy Data Cleaning](./world-life-expectancy/README.md): Cleaning and preparing life expectancy data for analysis.
+- [World Life Expectancy Data Cleaning And Analysis](./world_life_expectancy/README.md): Cleaning and preparing life expectancy data for analysis.
 
 ## Future Projects
 

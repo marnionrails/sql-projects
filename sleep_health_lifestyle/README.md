@@ -1,31 +1,56 @@
-# Sleep, Health, and Lifestyle Project
+# Sleep, Health, and Lifestyle Analysis
 
-This project involves both data cleaning and exploratory data analysis (EDA) of a sleep, health and lifestyle dataset using MySQL Server. The goal is to prepare the dataset for accurate analysis and uncover insights into how a person's gender and occupation affects a person's likelihood of having health issues. 
+This project involves both data cleaning and exploratory data analysis (EDA) of a dataset focused on sleep, health, and lifestyle using MySQL Server. The goal is to prepare the dataset for accurate analysis and uncover insights into how various factors such as gender, age, occupation, and lifestyle habits influence sleep quality and related health outcomes.
+
+## Dataset Overview
+
+The Sleep, Health, and Lifestyle Dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as:
+
+- Gender
+- Age
+- Occupation
+- Sleep Duration
+- Quality of Sleep
+- Physical Activity Level
+- Stress Levels
+- BMI Category
+- Blood Pressure
+- Heart Rate
+- Daily Steps
+- Presence or Absence of Sleep Disorders
+
+## Data Access
+
+The dataset used in this project is publicly available on Kaggle and can be accessed via the following link:
+
+- [Sleep, Health, and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+
+Please ensure you comply with Kaggle's terms of use when downloading and using the dataset.
 
 ## Data Cleaning
 
-- **Objective**: Prepare the dataset by removing duplicates, filling missing values, and standardizing data formats.
-- **Techniques Used**: [List techniques].
+- **Objective**: Prepare the dataset by removing duplicates, filling missing values, and standardizing data formats to ensure accuracy and consistency.
+- **Techniques Used**: SQL functions, window functions, self-joins, and data validation methods.
 
 ## Exploratory Data Analysis
 
-- **Objective**: Analyze trends in [describe focus, e.g., life expectancy, economic indicators, etc.], and other relevant factors.
+- **Objective**: Analyze trends and correlations between various factors and sleep quality, such as the impact of physical activity, stress levels, and BMI on sleep disorders.
 - **Key Insights**:
-  - [Insight 1]
-  - [Insight 2]
-  - [Insight 3]
-  - [Insight 4]
+  - [Insight 1: Placeholder for findings related to gender and sleep quality]
+  - [Insight 2: Placeholder for findings related to occupation and sleep quality]
+  - [Insight 3: Placeholder for findings on the relationship between BMI and sleep disorders]
+  - [Insight 4: Placeholder for any other significant findings]
 
 ## How to Access the SQL Files
 
-- [Data Cleaning SQL](./sleep-health-lifestyle-data-cleaning.sql)
+- [Data Cleaning SQL](./path/to/data-cleaning.sql)
 - [Exploratory Data Analysis SQL](./path/to/exploratory-data-analysis.sql)
 
 ## Conclusion
 
-The project aims to highlight important trends and correlations in health data, providing valuable insights into the impact of lifestyle factors on health outcomes. These insights can inform healthcare strategies and further research into the prevention and management of health issues.
+The project aims to highlight important trends and correlations in sleep and health data, providing valuable insights into the factors that influence sleep quality. These insights can inform healthcare strategies and further research into improving sleep health.
 
 ## Future Work
 
-- Further analysis on the impact of specific lifestyle changes on health outcomes.
+- Further analysis on the impact of specific lifestyle changes on sleep quality.
 - Exploration of additional datasets to broaden the scope of the analysis.

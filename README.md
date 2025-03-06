@@ -9,3 +9,5 @@ This repository contains a collection of SQL projects demonstrating various data
 ## Future Projects
 
 - COVID-19 Data Exploration: (Coming soon)
+
+Each project has its own directory with a detailed `README.md` file explaining the objectives, techniques, and outcomes.

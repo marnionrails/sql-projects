@@ -23,7 +23,7 @@ The Sleep, Health, and Lifestyle Dataset comprises 400 rows and 13 columns, cove
 
 The dataset used in this project is publicly available on Kaggle and can be accessed via the following link:
 
-- <a href="https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset" target="_blank">Sleep, Health, and Lifestyle Dataset</a>
+- [Sleep, Health, and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
 
 Please ensure you comply with Kaggle's terms of use when downloading and using the dataset.
 
@@ -42,9 +42,8 @@ Please ensure you comply with Kaggle's terms of use when downloading and using t
   - [Insight 4: Placeholder for any other significant findings]
 
 ## How to Access the SQL Files
-
-- <a href="./sleep-health-lifestyle-data-cleaning.sql" target="_blank">Data Cleaning SQL</a>
-- <a href="./path/to/exploratory-data-analysis.sql" target="_blank">Exploratory Data Analysis SQL</a>
+- [Data Cleaning SQL](./sleep-health-lifestyle-data-cleaning.sql)
+- [Exploratory Data Analysis SQL](./path/to/exploratory-data-analysis.sql)
 
 ## Conclusion
 

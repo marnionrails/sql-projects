@@ -14,6 +14,7 @@ This project involves both data cleaning and exploratory data analysis (EDA) of 
   - Significant increases in life expectancy over the past 15 years.
   - Strong correlation between GDP and life expectancy.
   - Differences in life expectancy between developed and developing countries.
+  - - **Higher average BMI in countries correlates to longer life expectancy.**
 
 ## How to Access the SQL Files
 

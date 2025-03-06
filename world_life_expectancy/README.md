@@ -1,23 +1,25 @@
-# World Life Expectancy Data Cleaning
+# World Life Expectancy Project
 
-This project involves cleaning a dataset of world life expectancy data using MySQL Server. The primary goal was to prepare the dataset for accurate analysis by addressing data quality issues such as duplicates, missing values, and inconsistencies.
+This project involves both data cleaning and exploratory data analysis (EDA) of a world life expectancy dataset using MySQL Server. The goal is to prepare the dataset for accurate analysis and uncover insights into global health trends.
 
-## Project Objectives
+## Data Cleaning
 
-- **Remove Duplicates**: Identify and remove duplicate records based on country and year combinations to ensure data integrity.
-- **Handle Missing Status Values**: Fill in missing 'Status' fields, which indicate whether a country is 'Developed' or 'Developing', using self-joins.
-- **Fill Missing Life Expectancy Values**: Use trend-based averaging to fill in gaps in life expectancy data, following the trend of increasing life expectancy over time.
+- **Objective**: Prepare the dataset by removing duplicates, filling missing values, and standardizing data formats.
+- **Techniques Used**: SQL functions, window functions, and self-joins.
 
-## Techniques Used
+## Exploratory Data Analysis
 
-- SQL functions such as `COALESCE` and `CASE` statements to handle null values and standardize data formats.
-- Window functions to identify and remove duplicate records.
-- Self-joins to fill in missing data based on existing records.
+- **Objective**: Analyze trends in life expectancy, the impact of GDP, and other health indicators.
+- **Key Insights**:
+  - Significant increases in life expectancy over the past 15 years.
+  - Strong correlation between GDP and life expectancy.
+  - Differences in life expectancy between developed and developing countries.
 
-## Outcomes
+## How to Access the SQL Files
 
-- Improved dataset accuracy, enabling more reliable insights and visualizations.
+- [Data Cleaning SQL](./data-cleaning.sql)
+- [Exploratory Data Analysis SQL](./exploratory-data-analysis.sql)
 
-## How to Access the SQL File
+## Conclusion
 
-You can view the SQL script used for this project by clicking [here](./data-cleaning.sql).
+The project highlights important trends and correlations in global health data, providing valuable insights for policy decisions and further research.

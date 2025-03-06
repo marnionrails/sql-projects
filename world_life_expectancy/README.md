@@ -18,8 +18,8 @@ This project involves both data cleaning and exploratory data analysis (EDA) of 
 
 ## How to Access the SQL Files
 
-- [Data Cleaning SQL](./data-cleaning.sql)
-- [Exploratory Data Analysis SQL](./exploratory-data-analysis.sql)
+- [Data Cleaning SQL](./life-exp-data-cleaning.sql)
+- [Exploratory Data Analysis SQL](./life-exp-exploratory-data-analysis.sql)
 
 ## Conclusion
 

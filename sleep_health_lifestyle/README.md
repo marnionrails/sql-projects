@@ -29,8 +29,10 @@ Please ensure you comply with Kaggle's terms of use when downloading and using t
 
 ## Data Cleaning
 
-- **Objective**: Prepare the dataset by removing duplicates, filling missing values, and standardizing data formats to ensure accuracy and consistency.
-- **Techniques Used**: 
+- **Standardization**: Ensured consistency in the `BMI Category` field by standardizing entries from "Normal Weight" to "Normal". This step was crucial for maintaining uniformity in categorical data.
+- **Trimming**: Applied the `TRIM()` function to remove leading and trailing spaces from key string fields, including `Blood Pressure`, `BMI Category`, `Gender`, `Occupation`, and `Sleep Disorder`. This was verified by comparing the original and trimmed lengths of each field.
+- **Duplicate Check**: Conducted a check for duplicate records by verifying that no `Person ID` had multiple entries, ensuring data integrity.
+- **Schema Inspection**: Queried the information schema to identify all string columns, ensuring comprehensive trimming across relevant fields.
 
 ## Exploratory Data Analysis
 

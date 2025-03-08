@@ -38,7 +38,7 @@ Please ensure you comply with Kaggle's terms of use when downloading and using t
 
 - **Objective**: Analyze trends and correlations between various factors and sleep quality, such as the impact of physical activity, stress levels, and BMI on sleep disorders.
 - **Key Insights**:
-    - **Occupation and Sleep Quality**:
+  **Occupation and Sleep Quality**:
      - **Female Engineers in Their 50s**: This group reported consistently low stress levels (3 out of 10), normal BMI, high sleep quality (9 out of 10), and no sleep disorders. They maintained a healthy heart rate (65 bpm) and blood pressure (125/80), with an average of 5000 steps per day. These findings suggest a generally healthier profile compared to their nursing counterparts.
     - **Female Nurses in Their 50s**: While stress levels, sleep quality, and duration improve in their later 50s, 89% still reported having sleep apnea, and all had a blood pressure of 140/95, with 98% classified as overweight. Despite taking an average of 7000 to 10000 steps per day, there is not necessarily a correlation between the number of steps and overall health, as indicated by persistent health issues.
     - **Comparison with Younger Female Nurses**: Among younger female nurses (under 50), 64% reported having sleep apnea. This indicates an increase in sleep apnea prevalence with age, possibly exacerbated by cumulative occupational stress.
